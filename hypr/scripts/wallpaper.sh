@@ -4,13 +4,12 @@ THEME=$(cat "$THEMES/current")
 DIR="$THEMES/$THEME/wallpapers"
 
 list() {
-  find "$DIR" -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \)
+  find "$DIR" -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' -o -iname '*.gif' \)
 }
 
 if [ "$1" = "random" ]; then
   img=$(list | shuf -n1)
 else
-  # layout only: your existing Rofi colors and rounded style stay as they are
   LAYOUT='
     window { width: 1000px; }
     mainbox { children: [ listview ]; }
