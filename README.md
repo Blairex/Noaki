@@ -1,26 +1,10 @@
 # Noaki
 
-
-
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1a1a1a?style=for-the-badge&logo=archlinux&logoColor=white)
-
-
-
 
 ![Hyprland](https://img.shields.io/badge/Hyprland-1a1a1a?style=for-the-badge&logo=hyprland&logoColor=white)
 
-
-
-
 ![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=for-the-badge&logo=lua&logoColor=white)
-
-
-
-
-![Rofi](https://img.shields.io/badge/Rofi-1a1a1a?style=for-the-badge)
-
-
-
 
 ![Status](https://img.shields.io/badge/Status-WIP-1a1a1a?style=for-the-badge)
 
