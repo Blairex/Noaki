@@ -1,5 +1,10 @@
 {
   "layer": "top",
+  "height": 10,
+  "margin-top": 3,
+  "margin-bottom": 0,
+  "margin-left": 100,
+  "margin-right": 100,
   "modules-left": ["hyprland/workspaces", "hyprland/mode"],
   "modules-center": ["hyprland/window"],
   "modules-right": ["battery", "clock"],
